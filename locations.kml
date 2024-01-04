@@ -1,0 +1,160 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle>
+<Icon>
+<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Libraries</name>
+<Placemark>
+<name>Leavey</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.283273, 34.021643</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Doheny</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.284206, 34.020280</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sc Eng</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.288937, 34.019427</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Eateries</name>
+<Placemark>
+<name>RockReily</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2841499714709, 34.024143737824254</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Parkside</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates> -118.29120391259077, 34.01861479359072</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RTC</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.286008, 34.020616</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Waterworks</name>
+<Placemark>
+<name>Generations</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28328280156035, 34.02227379657735</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cinematics</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates> -118.286413, 34.023482</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TrojanHorse</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.285177, 34.020304</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Department Buildings</name>
+<Placemark>
+<name>Accounting</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.285881, 34.019207</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Roski</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.287356, 34.019531</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Herman Ostrow</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.285765, 34.023601</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Home</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.288650, 34.032033</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ConvexHull</name>
+<Style><LineStyle><color>ffff7d53</color></LineStyle><PolyStyle><color>80fe4d28</color></PolyStyle></Style>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-118.29120391259077,34.01861479359072 -118.28865,34.032033 -118.2841499714709,34.024143737824254 -118.28328280156035,34.02227379657735 -118.283273,34.021643 -118.284206,34.02028 -118.285881,34.019207 -118.29120391259077,34.01861479359072</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon> 
+</Placemark>
+<Placemark>
+<name>Neighbour1</name>
+<description>Neighbour1</description>
+<Style><LineStyle><color>ff0000ff</color><width>2</width></LineStyle></Style>
+<LineString>
+<coordinates>-118.288650,34.032033 -118.286413,34.023482</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Neighbour2</name>
+<description>Neighbour2</description>
+<Style><LineStyle><color>ff0000ff</color><width>2</width></LineStyle></Style>
+<LineString>
+<coordinates>-118.288650,34.032033 -118.285765,34.023601</coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>Neighbour3</name>
+<description>Neighbour3</description>
+<Style><LineStyle><color>ff0000ff</color><width>2</width></LineStyle></Style>
+<LineString>
+<coordinates>-118.288650,34.032033 -118.2841499714709,34.024143737824254</coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>Neighbour4</name>
+<description>Neighbour4</description>
+<Style><LineStyle><color>ff0000ff</color><width>2</width></LineStyle></Style>
+<LineString>
+<coordinates>-118.288650,34.032033 -118.28328280156035,34.02227379657735</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
+
