@@ -35,7 +35,7 @@ This project delves into the realm of spatial data analysis, visualization, and 
 - **Google Earth Screenshot:**
   Loaded the KML file into Google Earth, capturing a visual representation of the sampled locations on the globe.
 
-  ![Logo](images/GEarthVisualisation.png)
+  ![Google Earth](images/GEarthVisualisation.png)
 
 
 ### 3. Postgres+PostGIS Spatial Queries
@@ -43,13 +43,13 @@ This project delves into the realm of spatial data analysis, visualization, and 
 - **Convex Hull:**
   Executed a spatial query to compute the convex hull for the 13 points, ensuring a tight, enclosing boundary. Updated the KML file to include the convex hull polygon.
 
-  ![Logo](images/convexHull.png)
+  ![Convex Hull](images/convexHull.png)
 
 
 - **Nearest Neighbors:**
   Utilized the spatial function of the database to find the four nearest neighbors of the dorm room. Represented the results with line segments in the KML file.
 
-  ![Logo](images/nearestNeighbours.png)
+  ![Nearest Neighbours](images/nearestNeighbours.png)
 
 ### 4. OpenLayers Visualization
 
@@ -61,7 +61,7 @@ This project delves into the realm of spatial data analysis, visualization, and 
 - **Spirograph™ Curve:**
   Created a set of spatial coordinates along a Spirograph™ curve around Tommy Trojan using parametric equations. Generated a new KML file and converted it into an ESRI shapefile for visualization on ArcGIS Online.
  
- ![Logo](images/spirograph.png)
+ ![Spirograph](images/spirograph.png)
 
 
 ## Repository Contents
@@ -80,3 +80,4 @@ This project delves into the realm of spatial data analysis, visualization, and 
 This project showcases a step-by-step approach to handling geo-spatial data. From initial data generation and KML creation to spatial queries, visualizations on Google Earth and OpenLayers, and a creative Spirograph™ curve around Tommy Trojan, each task demonstrates a practical application of spatial data concepts. The code and files provided serve as a comprehensive guide for anyone looking to explore and analyze geo-spatial data in diverse ways.
 
 Feel free to explore, experiment, and enhance this project for your own spatial data adventures!
+
